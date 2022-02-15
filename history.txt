@@ -1,0 +1,123 @@
+    1  git
+    2  sudo apt install git
+    3  git ..version
+    4  git
+    5  git --version
+    6  sudo apt-get install open-vm-tools
+    7  sudo apt-get install open-vm-tool-desktop
+    8  touch hello.txt
+    9  git --version
+   10  git config --list --show-origin
+   11  hello git.txt
+   12  toch hello.txt
+   13  touch hello.txt
+   14  git init
+   15  git status
+   16  git add .
+   17  git status
+   18  git commit -m "first commit"
+   19  git congig --global user.email "vernice.petersen@umuzi.org"
+   20  git config --global user.email "vernice.petersen@umuzi.org"
+   21  git config --global user.name "petersvl01"
+   22  git config user.name
+   23  git config user.email
+   24  git commit -m "first commit"
+   25  git remote add origin https://github.com/petersvl01/practice.git
+   26  git push -u origin master
+   27  git remote add origin https://github.com/petersvl01/practice.git
+   28  git commit -m "first commit"
+   29  git commit -m "second commit"
+   30  git remote add origin https://github.com/petersvl01/practice.git
+   31  git -u push origin master
+   32  git push -u origin master
+   33  git remote add origin https://github.com/petersvl01/level0edits.git
+   34  cd Download/
+   35  cd Downloads/
+   36  ls
+   37  sudo dpkg -i code_1.63.2-1639562499_amd64.deb
+   38  /usr/bin/python3 /home/vernice/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/shell_exec.py /usr/bin/python3 /home/vernice/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/get-pip.py /tmp/tmp-29359E3Uv3JUzJqtT.log
+   39  /usr/bin/python3 /home/vernice/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/shell_exec.py /usr/bin/python3 /home/vernice/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/get-pip.py /tmp/tmp-29359Ak5Bn2HSOaRU.log
+   40  /bin/python3 /home/vernice/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/shell_exec.py /bin/python3 /home/vernice/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/get-pip.py /tmp/tmp-29359vFB7banPra2F.log
+   41  /bin/python3 /home/vernice/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/shell_exec.py /bin/python3 /home/vernice/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/get-pip.py /tmp/tmp-293594RFiEnl504Tr.log
+   42  /bin/python3 Untitled-1
+   43  git clone git@github.com:Umuzi-org/VerniceLydia-Petersen-606-tilde-project-tutorial-how-repo-projects-work-.git
+   44  mkdir git-basic-exercises
+   45  cd git-basic-exercises
+   46  ls -a
+   47  git init
+   48  ls -a
+   49  git status
+   50  touch README.md
+   51  ls -a
+   52  git status
+   53  git add READ.md
+   54  git status
+   55  git add *.c
+   56  git aad *.READ.md
+   57  git add *.READ.me
+   58  gid add.
+   59  git add.
+   60  git add index.READ.me
+   61  git add READ.me
+   62  git add <READ.me>
+   63  rmdir READ.me
+   64  git -help
+   65  git --help
+   66  git help git add
+   67  git status
+   68  git add READ.md
+   69  ls -a
+   70  git log
+   71  git add README.md
+   72  ls -a
+   73  git status
+   74  git rm --cached README.md
+   75  git status
+   76  git add README.md
+   77  git status
+   78  git commit -m "initial commit"
+   79  git log
+   80  nano README.md
+   81  cat README.md
+   82  git status
+   83  git commit -m "second commit"
+   84  git status
+   85  git add README.md
+   86  git commit -m "second commit"
+   87  nano README.md
+   88  cat README.md
+   89  git add README.md
+   90  commit -m "third commit"
+   91  git commit -m "third commit"
+   92  git log
+   93  q
+   94  git checkout 212272522d1f8e2eac41007bc184a150e8f940dd
+   95  cat README.md
+   96  git checkout main
+   97  git checkout master
+   98  cat README.md
+   99  git branch
+  100  git branch milkshake-flavours
+  101  git branch
+  102  git branch -a
+  103  git checkout -b "milkshake-flavours"
+  104  git checkout milkshake-flavours
+  105  git checkout master
+  106  git checkout milkshake-flavours
+  107  git branch -a
+  108  nano milkshakes.md
+  109  git status
+  110  cat milkshakes.md
+  111  git add milkshakes.md
+  112  git commit -m "added initial flavours"
+  113  git log
+  114  git branch -a
+  115  git checkout master
+  116  git status
+  117  git log
+  118  git branch -a
+  119  git branch history
+  120  git checkout history
+  121  git log
+  122  git branch -a
+  123  history > history.txt
